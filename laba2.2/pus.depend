@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1665473403 source:c:\users\xxx2018\desktop\pus\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<Windows.h>
+	<iomanip>
+	<map>
+	<algorithm>
+	<conio.h>
+
+1695969051 source:c:\users\andrey\desktop\pus\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<Windows.h>
+	<iomanip>
+	<map>
+	<algorithm>
+	<conio.h>
+

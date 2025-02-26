@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1665495306 source:c:\users\xxx2018\desktop\pustoi\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<cstdlib>
+	<string>
+	<Windows.h>
+	<iomanip>
+	<map>
+	<ctime>
+	<algorithm>
+
+1695019622 source:u:\учеба\2 курс програмирование\pustoi\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<cstdlib>
+	<string>
+	<Windows.h>
+	<iomanip>
+	<map>
+	<ctime>
+	<algorithm>
+
+1695927610 source:c:\users\andrey\desktop\pustoi\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<cstdlib>
+	<string>
+	<Windows.h>
+	<iomanip>
+	<map>
+	<ctime>
+	<algorithm>
+
+1695927905 source:c:\users\andrey\desktop\алгоритмы и структуры данных\laba2.1\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<cstdlib>
+	<string>
+	<Windows.h>
+	<iomanip>
+	<map>
+	<ctime>
+	<algorithm>
+
